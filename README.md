@@ -6,6 +6,6 @@
 
 4.   MET numbers are used to identify features, rather than annotation names, to allow unknowns (which may be significant) to be included in the stats. This also allows unbiased analysis.
 
-5.  "OV_filtered" sheet is the filtered 121 metabolite peak value data matrix
+5.  "OV_filtered" sheet is the filtered 121 metabolite peak value data 
 
-6.  "SN_filtered" sheet is the filtered 121 metabolte peak vale data matrix
+6.  "SN_filtered" sheet is the filtered 121 metabolite peak value data 
